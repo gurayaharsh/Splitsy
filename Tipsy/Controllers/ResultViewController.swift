@@ -1,10 +1,4 @@
-//
-//  ResultViewController.swift
-//  Tipsy
-//
-//  Created by Harsh  on 2020-04-12.
-//  Copyright © 2020 The App Brewery. All rights reserved.
-//
+
 
 import UIKit
 
